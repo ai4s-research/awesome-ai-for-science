@@ -154,6 +154,7 @@
 ### High-Performance Document Processing
 - [MinerU (2024/2025)](https://github.com/opendatalab/MinerU) - SOTA multimodal document parsing with 1.2B parameters outperforming GPT-4o, converts PDFs to LLM-ready Markdown/JSON
 - [MinerU-Diffusion (OpenDataLab, ECCV 2026)](https://github.com/opendatalab/MinerU-Diffusion) - Diffusion-based document OCR framework replacing autoregressive decoding with block-level parallel diffusion decoding, enabling high-accuracy text recognition in scientific PDFs (613+ stars, MIT License)
+- [OpenDataLoader PDF (OpenDataLoader, 2025)](https://github.com/opendataloader-project/opendataloader-pdf) - Open-source PDF parser for AI-ready data, converting PDFs into Markdown/JSON/HTML/Tagged PDF with layout analysis and reading-order detection; ranks #1 overall on extraction benchmarks with deterministic bounding boxes and hybrid AI mode (26K+ stars, Apache 2.0)
 - [PDF-Extract-Kit (2024)](https://github.com/opendatalab/PDF-Extract-Kit) - Comprehensive toolkit for high-quality PDF content extraction with layout detection, formula recognition, and OCR
 - [Docling (IBM, AAAI 2025)](https://research.ibm.com/publications/docling-an-efficient-open-source-toolkit-for-ai-driven-document-conversion) - Multi-format (PDF/DOCX/PPTX/HTML/Images) → structured data (Markdown/JSON) with layout reconstruction, table/formula recovery
 - [Nougat (Meta AI)](https://github.com/facebookresearch/nougat) - Neural optical understanding for academic documents, transforms scientific PDFs to Markdown with mathematical formula support
