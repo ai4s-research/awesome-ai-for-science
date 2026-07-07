@@ -836,6 +836,7 @@
 - [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Neural ordinary differential equations with O(1) backprop and GPU support (900+ stars)
 - [Optimization.jl](https://github.com/SciML/Optimization.jl) - Unified interface for local, global, gradient-based and derivative-free optimization (800+ stars)
 - [PaddleScience](https://github.com/PaddlePaddle/PaddleScience) - SDK & library for AI-driven scientific computing applications
+- [Tesseract Core (Pasteur Labs, SciPy 2025 / JOSS)](https://github.com/pasteurlabs/tesseract-core) - Universal components for differentiable scientific computing, packaging heterogeneous scientific tools into self-contained, portable, gradient-propagating components with auto-generated schemas, CLI/REST API/Python SDK interfaces, and reproducible deployment across local, cloud, and HPC environments (105+ stars, Apache 2.0)
 - [Flux.jl](https://github.com/FluxML/Flux.jl) - Machine learning in Julia
 
 ### Specialized Frameworks
