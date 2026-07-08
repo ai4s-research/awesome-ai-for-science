@@ -76,6 +76,7 @@
 - [AutoViz](https://github.com/AutoViML/AutoViz) - Automated data visualization with minimal code
 - [Chat2Plot](https://github.com/nyanp/chat2plot) - Secure text-to-visualization through standardized chart specifications
 
+- [ImageFK](https://imagefk.com) - AI-powered online image editor with background removal, photo restoration, upscaling, and 2D-to-3D conversion. One-cl...
 ### Data Labeling & Annotation
 - [Label Studio](https://github.com/heartexlabs/label-studio) - Multi-type data labeling and annotation tool
 - [Snorkel](https://github.com/snorkel-team/snorkel) - Programmatic data labeling and weak supervision
