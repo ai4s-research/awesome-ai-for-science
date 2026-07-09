@@ -76,7 +76,6 @@
 - [AutoViz](https://github.com/AutoViML/AutoViz) - Automated data visualization with minimal code
 - [Chat2Plot](https://github.com/nyanp/chat2plot) - Secure text-to-visualization through standardized chart specifications
 
-- [ImageFK](https://imagefk.com) - AI-powered online image editor with background removal, photo restoration, upscaling, and 2D-to-3D conversion. One-cl...
 ### Data Labeling & Annotation
 - [Label Studio](https://github.com/heartexlabs/label-studio) - Multi-type data labeling and annotation tool
 - [Snorkel](https://github.com/snorkel-team/snorkel) - Programmatic data labeling and weak supervision
@@ -132,6 +131,7 @@
 - [Chat2Plot](https://github.com/nyanp/chat2plot) - Secure text-to-visualization through standardized chart specifications
 - [AutoViz](https://github.com/AutoViML/AutoViz) - Automated data visualization with minimal code
 - [PlotlyAI](https://plotly.com/ai/) - AI-powered data visualization and dashboard creation
+- [ToolFK](https://www.toolfk.com) - Comprehensive online toolkit for developers and creators — code formatting, encryption, PDF tools, AI video, image ed...
 
 ---
 
@@ -198,7 +198,9 @@
 - [ScholarAIO](https://github.com/ZimoLiao/scholaraio) - Agent-agnostic research infrastructure providing AI agents with a structured scientific workspace for deep PDF parsing, hybrid semantic/keyword literature search, citation-graph analysis, topic discovery, and academic writing workflows; natively integrates with Claude Code, Codex, Cursor, Cline, and AgentSkills.io (530+ stars, MIT License, 2026)
 - [BioMCP](https://github.com/genomoncology/biomcp) - Biomedical Model Context Protocol (MCP) server unifying literature search across PubMed/Europe PMC, entity pivoting across genes/variants/drugs/diseases/pathways/proteins, local study analytics, and Claude Code/Codex integration for agentic biomedical research (531+ stars, MIT License, 2025-2026)
 - [MATLAB Agentic Toolkit](https://github.com/matlab/matlab-agentic-toolkit) - Official MathWorks toolkit connecting AI agents to MATLAB via the MATLAB MCP Server and curated skills, enabling trusted engineering and scientific computing workflows with idiomatic code generation, testing, and error diagnosis in Claude Code, GitHub Copilot, OpenAI Codex, and Gemini CLI (686+ stars, BSD-3-Clause, 2026)
+- [BioNeMo Agent Toolkit (NVIDIA)](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) - Turn any AI agent into a life science expert with NVIDIA BioNeMo skills, enabling agentic workflows for drug discovery, protein engineering, and biomolecular design (329+ stars, Apache 2.0 / CC-BY-4.0, 2026)
 - [open-science](https://github.com/ai4s-research/open-science) - Local-first, open-source AI workbench for scientists — an open alternative to Claude Science (by ai4s-research, maintainers of this list; TypeScript, MIT, 2026)
+- [OpenScience (Synthetic Sciences)](https://github.com/synthetic-sciences/openscience) - Open-source AI workbench for scientific research that automates the full research loop — literature review, hypothesis generation, code writing, experiment execution, database querying, and report writing — with 290+ skills, specialized research agents, and a browser-based workspace (1453+ stars, Apache 2.0, 2026)
 
 ### Literature Management Plugins
 - [llm-for-zotero](https://github.com/yilewang/llm-for-zotero) - Research agent system deeply integrated with Zotero supporting Agent Mode, skills, multi-model backends (OpenAI-compatible, Claude Code, WebChat, Codex), and MinerU PDF parsing for literature Q&A, summarization, figure inspection, and source comparison (1.3K+ stars, 2026)
