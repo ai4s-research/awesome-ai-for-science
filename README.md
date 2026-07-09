@@ -933,6 +933,7 @@ This project builds upon and complements several excellent resources:
 - [LLM4SR Repository](https://github.com/du-nlp-lab/LLM4SR) - LLM for scientific research survey materials
 - [PINNs Paper Collection](https://github.com/idrl-lab/PINNpapers) - Physics-informed neural networks research
 - [SciML Papers](https://sciml.ai/papers/) - Scientific computing and machine learning papers
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ### 🌟 Key Insights from These Collections
 - **Current Focus**: Shift from tool-level assistance to autonomous scientific agents
