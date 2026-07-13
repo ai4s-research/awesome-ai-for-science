@@ -461,7 +461,7 @@
 #### Protein & Drug Discovery
 
 [Drug_repurposing](https://github.com/Sireesiru/Drug_repurposing/tree/master) - An integrated unsupervised machine learning and structure-activity relationship (SAR) analytical workflow for clustering approved drugs and identifying novel target therapeutic indications.(Comput Biol Med. 2021)
-- [NRPreTo](https://github.com/Sireesiru/Drug_repurposing/tree/master) - A machine learning-based two-level nuclear receptor prediction tool utilizing multi-group physiochemical, structural, and evolutionary descriptors for proteome-scale classification.(ACS Omega. 2023)
+- [NRPreTo](https://github.com/bozdaglab/NRPreTo) - A machine learning-based two-level nuclear receptor prediction tool utilizing multi-group physiochemical, structural, and evolutionary descriptors for proteome-scale classification.(ACS Omega. 2023)
 [Facility-Scale AI/ML workflows for multimodal microscopy data analysis](https://github.com/Sireesiru/AI-ML-Computational-workflows) Facility-Scale AI/ML semi-autonomous workflows for multimodal dataset integration and analysis.(BioRxiv 2026)
 - [CryoDRGN](https://github.com/ml-struct-bio/cryodrgn) - Neural network-based cryo-EM heterogeneous reconstruction, modeling continuous 3D structure distributions from single-particle images, with CryoDRGN-ET extending to in-cell cryo-electron tomography (MIT CSAIL, Nature Methods 2021/2024)
 - [ModelAngelo](https://github.com/3dem/model-angelo) - Automatic atomic model building program for cryo-EM maps using deep learning, enabling rapid de novo protein structure determination from electron density with high accuracy (3DEM/EMBL, 169+ stars)
