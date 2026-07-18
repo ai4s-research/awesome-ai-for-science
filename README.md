@@ -956,6 +956,11 @@ This project builds upon and complements several excellent resources:
 
 ---
 
+## 📚 Related Resources
+
+- **[Scholar Dev Hub](https://github.com/h-abar/scholar-dev-hub)** - Free curated hub of resources, tools, courses & AI Agents guides (MCP, RAG, LangGraph, Ollama, LangSmith) for developers, students, academics & researchers. Includes dedicated sections for researchers (arXiv, Semantic Scholar, Zotero, data analysis). Bilingual (EN/AR).
+
+
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
