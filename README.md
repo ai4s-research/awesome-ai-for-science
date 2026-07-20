@@ -292,6 +292,7 @@
 - [SciBench](https://arxiv.org/abs/2307.10635) - College-level scientific problem-solving evaluation across multiple domains
 - [NewtonBench (ICLR 2026)](https://github.com/HKUST-KnowComp/NewtonBench) - First benchmark evaluating LLMs' ability to rediscover scientific laws through interactive experimentation across 324 tasks in 12 physics domains, featuring memorization-resistant metaphysical shifts of canonical laws (HKUST)
 - [ResearchClawBench (InternScience, arXiv 2026)](https://github.com/InternScience/ResearchClawBench) - Benchmark evaluating AI agents for end-to-end automated research from re-discovery to new-discovery, with 40 real-science tasks across 10 disciplines, curated datasets from published papers, and expert-curated multimodal rubrics (170+ stars, MIT License)
+- [Terminal-Bench Science (Harbor Framework, 2026)](https://github.com/harbor-framework/terminal-bench-science) - Benchmark evaluating AI agents on complex real-world scientific workflows in terminal environments across life, physical, earth, and mathematical sciences; featured on model cards for Claude Opus 4.7, GPT-5.5, and Gemini 3.1 Pro (200+ stars, Apache 2.0)
 
 ### Academic Review & Evaluation
 - [AgentReview](https://agentreview.github.io/) - LLM agents simulating academic peer review ecosystems
