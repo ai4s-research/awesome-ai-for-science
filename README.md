@@ -431,6 +431,7 @@
 - [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) (2023.04) - LLM agents for chemistry research
 - [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - Automated chemical experimentation
 - [Coscientist: Autonomously planning and executing scientific experiments](https://www.nature.com/articles/s41586-023-06792-1) - Robotic lab automation
+- [The AutoResearch Moment: From Experimenter to Research Director](https://www.preprints.org/manuscript/202603.1329) (2026.03) - Position paper on claim governance for autonomous research: proposes a research-director bundle (objective sheet, discovery trace, verification ledger, provenance bundle) for evaluating agent-driven science
 
 ### Recent Advances & Domain Applications
 - [AlphaFold: Protein Structure Prediction](https://www.nature.com/articles/s41586-021-03819-2)
