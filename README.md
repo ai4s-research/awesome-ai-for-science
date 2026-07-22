@@ -321,6 +321,7 @@
 - [Coscientist](https://www.nature.com/articles/s41586-023-06792-1) - Autonomous chemical experiment planning and execution
 - [SciAgents](https://github.com/lamm-mit/SciAgentsDiscovery) - Bioinspired multi-agent intelligent graph reasoning system that autonomously traverses ontological knowledge graphs to generate, critique, and refine novel research hypotheses, demonstrated on bio-inspired materials discovery with cross-disciplinary connection mining (MIT Lamm Group, 2024)
 - [TxAgent](https://github.com/mims-harvard/TxAgent) - AI agent for therapeutic reasoning across a universe of tools, achieving 92.1% accuracy in drug reasoning and outperforming GPT-4o by 25.8% (Harvard MIMS, 2025)
+- [ATHENA-R1 (Harvard MIMS)](https://github.com/mims-harvard/ATHENA) - Reinforcement-learning-trained AI agent for treatment reasoning over a universe of 212 biomedical tools, performing multi-step evidence gathering and spawning parallel reasoning branches to reach evidence-grounded clinical decisions (55+ stars, MIT License, 2026)
 - [ClawBio](https://github.com/ClawBio/ClawBio) - First bioinformatics-native AI agent skill library enabling local-first, reproducible genomic and population-genetics research workflows built on OpenClaw (871+ stars, MIT License, 2026)
 
 ---
