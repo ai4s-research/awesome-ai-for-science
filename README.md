@@ -131,6 +131,7 @@
 - [Chat2Plot](https://github.com/nyanp/chat2plot) - Secure text-to-visualization through standardized chart specifications
 - [AutoViz](https://github.com/AutoViML/AutoViz) - Automated data visualization with minimal code
 - [PlotlyAI](https://plotly.com/ai/) - AI-powered data visualization and dashboard creation
+- [Flint (Microsoft)](https://github.com/microsoft/flint-chart) - Visualization intermediate language that lets AI agents create expressive, polished charts from simple, human-editable specs, compiling the same input to 30+ chart types across Vega-Lite, ECharts, and Chart.js with an MCP server for agent integration (1.9K+ stars, MIT License, 2026)
 
 ---
 
