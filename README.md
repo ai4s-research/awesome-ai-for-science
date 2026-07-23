@@ -778,7 +778,7 @@
 
 #### Social Science Research & Simulation
 - [AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety) - Modern LLM-native agent simulation platform for social science research and experimental design, providing a flexible framework for creating and managing intelligent agents in simulated environments (Tsinghua FIB Lab, 984+ stars, 2025)
-- [Awesome Agent Skills for Empirical Research](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research) - Curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines, enabling reproducible social science research with AI agents (Stanford REAP & CoPaper.AI, 1.1K+ stars, 2026)
+- [Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) - Curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines, enabling reproducible social science research with AI agents (Stanford REAP & CoPaper.AI, 3K+ stars, 2026)
 - [EDSL](https://github.com/expectedparrot/edsl) - Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs (460+ stars, 2024)
 
 ---
