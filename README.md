@@ -811,6 +811,7 @@
 ---
 
 ## 📈 Datasets & Benchmarks
+- **[REFUTE](https://bgpt.pro/refute)** — Scientific critique & epistemic calibration (judge-free). Whether models overclaim on recent science summaries; critique skill ≠ calibration. [Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) · [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)
 
 ### Multidisciplinary
 - [Hugging Face Datasets](https://huggingface.co/datasets) - Comprehensive ML research datasets and scientific data collections
