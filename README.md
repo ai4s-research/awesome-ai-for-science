@@ -227,6 +227,7 @@
 - [GraphGen](https://github.com/open-sciencelab/GraphGen) - Knowledge graph-guided synthetic data generation for LLM fine-tuning, achieving strong performance on scientific QA (GPQA-Diamond) and math reasoning (AIME)
 - [KoPA](https://github.com/zjukg/KoPA) - Structure-aware prefix adaptation for integrating LLMs with knowledge graphs (ACM MM 2024)
 - [Scholarly KGQA](https://arxiv.org/abs/2311.09841) - LLM-powered question answering over scholarly knowledge graphs (ArXiv paper)
+- [SciAtlas](https://github.com/zjunlp/SciAtlas) - Large-scale knowledge graph and pip-installable client for literature-grounded automated scientific research, connecting papers, authors, institutions, venues, keywords, citations, and a four-level research taxonomy across medicine, social sciences, engineering, computer science, materials science, and more (ZJU NLP, arXiv 2026, 136+ stars, MIT License)
 
 ### Knowledge Graph Resources
 - [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Comprehensive collection of papers on unifying LLMs and knowledge graphs
