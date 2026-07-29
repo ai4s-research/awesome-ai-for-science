@@ -950,6 +950,7 @@ This project builds upon and complements several excellent resources:
 - [awesome-ai4s](https://github.com/hyperai/awesome-ai4s) - 200+ AI for Science papers with Chinese interpretations
 - [Awesome AI Scientist Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) - Autonomous AI scientist research
 - [Awesome Scientific Machine Learning](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning) - Physics-informed ML and SciML
+- [Awesome Scientific Skills](https://github.com/InternScience/Awesome-Scientific-Skills) - Curated collection of agent skills for scientific research (InternScience, 493+ stars, 2026)
 - [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) - LLM agents across scientific domains
 - [Awesome LLM Agents Scientific Discovery](https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery) - Biomedical AI agents
 - [Awesome Foundation Models for Weather and Climate](https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate) - Comprehensive survey of foundation models for weather and climate data understanding
