@@ -217,6 +217,7 @@
 - [Research Rabbit](https://www.researchrabbit.ai/) - AI-powered literature discovery and research network mapping
 - [SciWrite](https://github.com/labarba/sciwrite) - Agent skill for AI-assisted scientific manuscript writing review distilled from Stanford's *Writing in the Sciences* course, performing five sequential editorial audit passes on clarity, voice, structure, consistency, and integrity (2026)
 - [Claude Prism](https://github.com/delibae/claude-prism) - Offline-first scientific writing workspace powered by Claude, integrating LaTeX, Python, and 100+ scientific skills with local execution, Zotero integration, and privacy-focused design (2026)
+- [ScholarCopilot](https://github.com/TIGER-AI-Lab/ScholarCopilot) - Open-weight (Qwen-2.5-7B) academic-writing assistant that jointly trains retrieval and generation, emitting a `[RET]` token to fetch and insert accurate citations from a 500K-paper corpus with one-click BibTeX; live HuggingFace demo, COLM 2025 (TIGER-AI-Lab, 2025)
 
 ---
 
