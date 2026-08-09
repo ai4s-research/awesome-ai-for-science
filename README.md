@@ -644,6 +644,7 @@
 - [PathChat (Nature Medicine 2024)](https://github.com/MahmoodLab/PathChat) - Multimodal generative AI assistant for computational pathology enabling interactive visual-language conversations over histopathology images for diagnostic reasoning, case discussion, and education, built on a Mistral-7B backbone with domain-specific fine-tuning (Mahmood Lab, Harvard Medical School, 1.2K+ stars)
 - [SlideChat (CVPR 2025)](https://github.com/uni-medical/SlideChat) - First large vision-language assistant for gigapixel whole-slide pathology image understanding, released with the SlideInstruction dataset and SlideBench benchmark (uni-medical, Apache 2.0, 2025)
 - [HEST (NeurIPS 2024)](https://github.com/mahmoodlab/HEST) - Dataset and benchmarking framework integrating histology and spatial transcriptomics, enabling multimodal analysis of whole-slide images with matched spatial gene expression for advancing computational pathology and tissue microenvironment research (Mahmood Lab, Harvard Medical School, 411+ stars)
+- [spmind (ICML 2026)](https://github.com/tomtommyyuan/spmind) - Autonomous AI agent for end-to-end spatial proteomics analysis, featuring SP-Bench for agentic multiplexed-imaging workflows (tomtommyyuan, 140+ stars, 2026)
 
 #### Medical AI & Clinical Applications
 - [Cellpose](https://github.com/MouseLand/cellpose) - Generalist deep learning algorithm for cell and nucleus segmentation across diverse image types, with human-in-the-loop training (2.0) and one-click image restoration (3.0), 70K+ training objects (Nature Methods 2021/2022/2025)
