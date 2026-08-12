@@ -973,6 +973,7 @@ This project builds upon and complements several excellent resources:
 
 ### 📊 Paper & Research Collections
 - [Scientific LLM Papers](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) - 260+ scientific language models
+- [Awesome Scientific LLM Benchmarks](https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks) - Curated, accuracy-first collection of benchmarks for evaluating LLMs on scientific reasoning and discovery across mathematics, physics, chemistry, materials science, biology, and agentic science (subinium, 29+ stars, MIT License, 2026)
 - [LLM4SR Repository](https://github.com/du-nlp-lab/LLM4SR) - LLM for scientific research survey materials
 - [PINNs Paper Collection](https://github.com/idrl-lab/PINNpapers) - Physics-informed neural networks research
 - [SciML Papers](https://sciml.ai/papers/) - Scientific computing and machine learning papers
