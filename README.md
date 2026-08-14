@@ -50,6 +50,7 @@
   - [🌍 Earth & Climate Science](#-earth--climate-science)
   - [🌾 Agriculture & Ecology](#-agriculture--ecology)
   - [🧠 Social Sciences](#-social-sciences)
+  - [🏗 Engineering & Built Environment](#-engineering--built-environment)
 - [🤖 Foundation Models for Science](#-foundation-models-for-science)
 - [📈 Datasets & Benchmarks](#-datasets--benchmarks)
 - [💻 Computing Frameworks](#-computing-frameworks)
@@ -801,6 +802,13 @@
 - [Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) - Curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines, enabling reproducible social science research with AI agents (Stanford REAP & CoPaper.AI, 3K+ stars, 2026)
 - [EDSL](https://github.com/expectedparrot/edsl) - Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs (460+ stars, 2024)
 - [GABRIEL (OpenAI, 2026)](https://github.com/openai/GABRIEL) - Generalized Attribute Based Ratings Information Extraction Library; official OpenAI toolkit that turns messy qualitative corpora into analysis-ready datasets for social scientists and data scientists, measuring quantitative attributes in text, images, or audio using the GPT API. See the [official blog post](https://openai.com/index/scaling-social-science-research/) and [NBER working paper](http://www.nber.org/papers/w34834) (413+ stars, Apache 2.0)
+
+---
+
+## 🏗 Engineering & Built Environment
+
+### Structural & Civil Engineering
+- [StructureClaw](https://github.com/structureclaw/structureclaw) - AI-assisted structural engineering workspace for AEC workflows: natural language to structural model, analysis, code-check, and report (171+ stars, MIT License, 2026)
 
 ---
 
