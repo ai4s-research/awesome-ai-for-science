@@ -810,6 +810,9 @@
 ### Structural & Civil Engineering
 - [StructureClaw](https://github.com/structureclaw/structureclaw) - AI-assisted structural engineering workspace for AEC workflows: natural language to structural model, analysis, code-check, and report (171+ stars, MIT License, 2026)
 
+### Architectural Design & BIM
+- [Aedifex](https://github.com/TangSY/aedifex) - Open-source 3D architectural editor with an AI design assistant; build floor plans with walls, doors, windows, and furniture using natural language, with real-time WebGPU-powered previews (TangSY, 59+ stars, MIT License, 2026)
+
 ---
 
 ## 🤖 Foundation Models for Science
