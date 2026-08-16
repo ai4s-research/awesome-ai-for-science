@@ -716,6 +716,7 @@
 
 #### Lab Automation & Robotics
 - [PyLabRobot](https://github.com/PyLabRobot/pylabrobot) - Interactive and hardware-agnostic SDK for laboratory automation, enabling programmatic control of liquid handlers, plate readers, and other lab instruments across multiple vendors; foundational infrastructure for self-driving laboratories and AI-driven experimental execution (447+ stars)
+- [RoboChem-Flex](https://github.com/Noel-Research-Group/Robochem_Flex) - Low-cost, modular self-driving laboratory platform democratizing autonomous chemical experimentation with open control software, device CAD/PCB files, and example optimization campaigns (Noël Research Group, University of Amsterdam, Apache 2.0, 2026)
 
 ### 🌌 Physics & Astronomy
 
