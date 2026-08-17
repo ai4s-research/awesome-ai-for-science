@@ -814,6 +814,9 @@
 ### Architectural Design & BIM
 - [Aedifex](https://github.com/TangSY/aedifex) - Open-source 3D architectural editor with an AI design assistant; build floor plans with walls, doors, windows, and furniture using natural language, with real-time WebGPU-powered previews (TangSY, 59+ stars, MIT License, 2026)
 
+### Electrical & Electronics Engineering
+- [kicad-happy](https://github.com/aklofas/kicad-happy) - AI coding agent skills for KiCad electronics design that turn Claude Code, Codex, Gemini CLI, and other coding agents into full electronics design assistants; parses schematics and PCB layouts, builds power trees, audits connectors/ESD protection, validates passive networks, runs SPICE simulation, sources components from major distributors, and prepares boards for fabrication (aklofas, 974+ stars, MIT License, 2026)
+
 ---
 
 ## 🤖 Foundation Models for Science
