@@ -127,6 +127,7 @@
 - [ChartCoder (ACL 2025)](https://aclanthology.org/2025.acl-long.363/) - Multimodal LLM for chart-to-code generation, 7B model outperforms larger open-source MLLMs
 - [ChartAssistant / ChartAst (ACL 2024)](https://github.com/OpenGVLab/ChartAst) - Universal chart comprehension and reasoning model
 - [Chart-to-Text Datasets](https://github.com/vis-nlp/Chart-to-text) - Large-scale chart summarization datasets for training chart description capabilities
+- [StructEval (TMLR 2025)](https://tiger-ai-lab.github.io/StructEval/) - [Paper](https://openreview.net/forum?id=buDwV7LUA7) and [code](https://github.com/TIGER-AI-Lab/StructEval) for benchmarking LLM-generated Matplotlib, Vega, SVG, TikZ, and web UI outputs with rendering and visual checks
 
 ### Scientific Visualization Tools
 - [Chat2Plot](https://github.com/nyanp/chat2plot) - Secure text-to-visualization through standardized chart specifications
