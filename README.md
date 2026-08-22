@@ -731,6 +731,7 @@
 - [Neural ODEs](https://github.com/rtqichen/torchdiffeq) - Differential equations with neural networks
 - [Physics-Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Physics-constrained ML
 - [EquiformerV2](https://github.com/atomicarchitects/equiformer_v2) - Improved equivariant Transformer for 3D atomic graphs (ICLR2024)
+- [EquiformerV3](https://github.com/atomicarchitects/equiformer_v3) - Scaling efficient, expressive, and general SE(3)-equivariant graph attention transformers for atomic systems and machine-learned interatomic potentials (MIT License, 2026)
 - [Equiformer](https://github.com/atomicarchitects/equiformer) - Equivariant graph attention Transformer (ICLR2023)
 - [TORAX](https://github.com/google-deepmind/torax) - Differentiable tokamak core transport simulator for fusion energy research, coupling PDE solvers with JAX auto-differentiation and neural-network surrogates for fast forward modelling, pulse-design, and trajectory optimization (Google DeepMind, Apache 2.0)
 - [DiffPhysDrone (Nature Machine Intelligence 2025)](https://github.com/HenryHuYu/DiffPhysDrone) - First real quadrotor robot trained end-to-end with differentiable physics for vision-based agile flight, bridging simulation-based learning and real-world deployment with physics-informed neural network controllers (558+ stars)
