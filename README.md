@@ -224,6 +224,7 @@
 - [Obsidian Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) - AI-powered note linking and research graph navigation
 - [Research Rabbit](https://www.researchrabbit.ai/) - AI-powered literature discovery and research network mapping
 - [SciWrite](https://github.com/labarba/sciwrite) - Agent skill for AI-assisted scientific manuscript writing review distilled from Stanford's *Writing in the Sciences* course, performing five sequential editorial audit passes on clarity, voice, structure, consistency, and integrity (2026)
+- [PaperSpine](https://github.com/WUBING2023/PaperSpine) - Motivation-driven academic writing system for Claude Code, Codex, OpenClaw, and Hermes CLI that learns from strong papers, builds evidence-aware central-argument blueprints, and rewrites manuscripts with revision matrices and LaTeX-safe audits (4.9K+ stars, MIT License, 2026)
 - [Claude Prism](https://github.com/delibae/claude-prism) - Offline-first scientific writing workspace powered by Claude, integrating LaTeX, Python, and 100+ scientific skills with local execution, Zotero integration, and privacy-focused design (2026)
 
 ---
