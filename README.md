@@ -823,6 +823,9 @@
 ### Structural & Civil Engineering
 - [StructureClaw](https://github.com/structureclaw/structureclaw) - AI-assisted structural engineering workspace for AEC workflows: natural language to structural model, analysis, code-check, and report (171+ stars, MIT License, 2026)
 
+### Construction & Built Environment Management
+- [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction ERP with AI-powered cost matching, BOQ generation, and PDF/CAD/BIM takeoff; 42 regional catalogues, 21 languages, 71 modules (DataDrivenConstruction, 717+ stars, AGPL-3.0, 2026)
+
 ### Architectural Design & BIM
 - [Aedifex](https://github.com/TangSY/aedifex) - Open-source 3D architectural editor with an AI design assistant; build floor plans with walls, doors, windows, and furniture using natural language, with real-time WebGPU-powered previews (TangSY, 59+ stars, MIT License, 2026)
 
