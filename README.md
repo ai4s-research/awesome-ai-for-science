@@ -796,6 +796,7 @@
 - [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) - Multi-modal geospatial ML platform for agriculture and sustainability, fusing satellite imagery (RGB, SAR, multispectral), drone imagery, weather data, and sensor data for crop identification, carbon footprint estimation, and microclimate prediction (Microsoft Research, MIT License)
 - [PlantCV](https://github.com/danforthcenter/plantcv) - Open-source image analysis toolkit for high-throughput plant phenotyping, extracting morphological, color, and texture traits from RGB, hyperspectral, and thermal imagery with modular Python workflows for crop improvement, stress detection, and plant biology research (Donald Danforth Plant Science Center, 795+ stars, MPL-2.0)
 - [Virdis](https://github.com/Thanas-R/Virdis) - Satellite-powered agricultural and land analytics platform combining Sentinel-2 imagery, Google Earth Engine processing, real-time weather data, soil science databases, and AI-driven crop planning into a unified web dashboard (145+ stars, AGPL-3.0, 2026)
+- [Agribound](https://github.com/montimaj/agribound) - AI-powered field boundary delineation toolkit combining satellite foundation models, embeddings, and global training data for accurate agricultural parcel/field boundary mapping, with Google Earth Engine integration and PyPI distribution (84+ stars, Apache 2.0, 2026)
 
 #### Ecological Modeling
 - [BioSimulators](https://github.com/biosimulators/Biosimulators) - Biological simulation tools
