@@ -856,6 +856,7 @@
 ### Domain-Specific Models
 - [ESM](https://github.com/facebookresearch/esm) - Protein language models
 - [BioNeMo Framework](https://github.com/NVIDIA/bionemo-framework) - NVIDIA's open-source platform for building and adapting biological AI models at scale, bundling ESM-2, Geneformer, MolMIM and DNA embedding models with recipes for single-GPU to multi-node training (2025)
+- [BioNeMo Recipes (NVIDIA)](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) - TransformerEngine-accelerated checkpoints and training recipes for scaling biological foundation models (ESM-2, AMPLIFY, Geneformer, CodonFM) from single-GPU prototyping to multi-node FSDP training with FP8/MXFP8/NVFP4 precision, compatible with PyTorch, HF Accelerate, and PyTorch Lightning, plus sparse-autoencoder interpretability tools for biological foundation models (851+ stars, 2026)
 - [IBM FM4M](https://github.com/IBM/materials) - IBM's open foundation model family for materials and chemistry, covering SMILES, SELFIES, molecular graphs, 3D atom positions, and electron density grids, with a unified toolkit for representation learning and downstream prediction/generation (Apache 2.0, 2024-2025)
 - [ChemGPT](https://huggingface.co/ncfrey/ChemGPT-1.2B) - Chemistry-focused language model
 - [BioGPT](https://github.com/microsoft/BioGPT) - Biomedical text generation
