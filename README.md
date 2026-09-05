@@ -88,7 +88,7 @@
 - [SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) - 197 bioinformatics and life science skills for Claude Code and AI agents, achieving 92.0% accuracy on BixBench. Covers RNA-seq, single-cell analysis, drug discovery, proteomics, and more. Powers OmicsHorizon (195+ stars, 2026)
 - [Medical Research Skills](https://github.com/aipoch/medical-research-skills) - Curated library of 550+ medical research agent skills spanning evidence insights, protocol design, omics/clinical data analysis, and academic writing; each skill is reviewed through MedSkillAudit and compatible with Claude Code, Codex, Open Code, OpenClaw, and SKILL.md-compatible agents (AIPOCH, 1.2K+ stars, MIT License, 2026)
 - [bioSkills](https://github.com/GPTomics/bioSkills) - Collection of SKILLS.md guiding AI coding agents (Claude Code, OpenAI Codex, Google Gemini, OpenCode, OpenClaw) through common bioinformatics workflows from basic sequence manipulation to advanced analyses such as single-cell RNA-seq and population genetics; evaluated on the Bio-Task Bench dataset (GPTomics, 969+ stars, MIT License, 2026)
-
+- [Scholar Skills Market](https://scholarskill.com/en/) - Marketplace for discovering reusable and installable research skills by task, method, discipline, and research stage
 ---
 
 ## 📄 Paper→Poster / Slides / Graphical Abstract
