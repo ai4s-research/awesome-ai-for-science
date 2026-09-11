@@ -867,6 +867,7 @@
 - [ChemGPT](https://huggingface.co/ncfrey/ChemGPT-1.2B) - Chemistry-focused language model
 - [BioGPT](https://github.com/microsoft/BioGPT) - Biomedical text generation
 - [HuatuoGPT-o1 (2025)](https://github.com/FreedomIntelligence/HuatuoGPT-o1) - Open-source medical large language model for complex clinical reasoning, extending the o1 long-chain-of-thought paradigm to biomedical question answering and diagnostic inference (FreedomIntelligence, 1.3K+ stars)
+- [Med-Gemma (Google Health, 2025)](https://github.com/google-health/medgemma) - Google's open multimodal medical LLM family built on Gemma 3, including a 4B multimodal model handling medical images (radiology, pathology, dermatology) alongside text and a 27B text model for clinical reasoning; trained on de-identified medical data with checkpoints and inference code released under Apache 2.0 (1.6K+ stars)
 - [AntAngelMed (2026)](https://github.com/MedAIBase/AntAngelMed) - 103B-parameter open-source medical language model with 1/32 Mixture-of-Experts architecture, achieving HealthBench-leading performance among open-source models with only 6.1B active parameters; jointly developed by Ant Group and Zhejiang Province Health Information Center (MIT License)
 
 ---
