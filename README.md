@@ -791,6 +791,9 @@
 - [Earth-Agent](https://github.com/opendatalab/Earth-Agent) - LLM agent framework for Earth Observation with 104 specialized tools across 5 functional kits
 - [AI for Earth](https://planetarycomputer.microsoft.com/) - Microsoft's environmental AI
 
+#### Hydrology & Water Resources
+- [NeuralHydrology (KIT, HESS 2019/2021)](https://github.com/neuralhydrology/neuralhydrology) - Python library from KIT for training deep learning models on large-sample hydrology, introducing LSTM-based rainfall-runoff modeling that learns universal, regional, and local hydrological behaviors from hundreds of catchments; widely used for streamflow forecasting, flood prediction, and drought research, supporting the CAMELS and Caravan benchmark datasets (581+ stars, BSD-3-Clause, actively maintained)
+
 #### Geophysics & Seismology
 - [SeisBench](https://github.com/seisbench/seisbench) - A toolbox for machine learning in seismology, providing unified interfaces for deep learning seismic phase picking, earthquake detection, and waveform analysis across multiple benchmark datasets and pretrained models (397+ stars, actively maintained)
 
