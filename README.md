@@ -187,6 +187,7 @@
 - [STORM](https://github.com/stanford-oval/storm) - LLM agent system synthesizing Wikipedia-like long-form research articles from scratch through multi-perspective question asking, web retrieval, and citation-grounded report generation, with Co-STORM extension for collaborative human-LLM knowledge curation conversations (Stanford OVAL, NAACL 2024 & EMNLP 2024)
 
 ---
+- [PaperAgent](https://github.com/hui-xu-ai/PaperAgent) - Local-first literature workbench for Windows: MinerU parsing with a dual-channel human review UI, three-level knowledge compilation (L1/L2/L3 notes), full-text translation and FTS5 retrieval QA over your own PDFs (MIT)
 
 ## 🧰 Research Workbench & Plugins
 
