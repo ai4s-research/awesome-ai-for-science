@@ -91,6 +91,8 @@
 
 ---
 
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce whose Commander coordinates research and other specialist agents through one chat
+
 ## 📄 Paper→Poster / Slides / Graphical Abstract
 
 ### Poster Generation
