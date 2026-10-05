@@ -460,6 +460,7 @@
 - [The AutoResearch Moment: From Experimenter to Research Director](https://www.preprints.org/manuscript/202603.1329) (2026.03) - Position paper on claim governance for autonomous research: proposes a research-director bundle (objective sheet, discovery trace, verification ledger, provenance bundle) for evaluating agent-driven science
 
 ### Recent Advances & Domain Applications
+- [AI Group Call](https://aigroupcall.app) - Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript.
 - [AlphaFold: Protein Structure Prediction](https://www.nature.com/articles/s41586-021-03819-2)
 - [AI for Materials Discovery](https://www.nature.com/articles/s41578-023-00540-6) 
 - [Large Language Models in Chemistry](https://arxiv.org/abs/2402.05852) (2024.02)
