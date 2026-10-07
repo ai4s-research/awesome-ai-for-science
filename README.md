@@ -806,6 +806,7 @@
 
 #### Geophysics & Seismology
 - [SeisBench](https://github.com/seisbench/seisbench) - A toolbox for machine learning in seismology, providing unified interfaces for deep learning seismic phase picking, earthquake detection, and waveform analysis across multiple benchmark datasets and pretrained models (397+ stars, actively maintained)
+- [EQTransformer (Nature Communications 2020)](https://github.com/smousavi05/EQTransformer) - Self-attention transformer performing simultaneous earthquake detection and P/S phase picking on continuous seismic waveforms, trained on the large-scale STEAD benchmark dataset and outperforming legacy detection methods with far fewer false positives; widely adopted by seismological observatories for earthquake monitoring, included in SeisBench model collections, and extended by efficient EQT-Mini/EQT-Lite successors for real-time deployment (Stanford, 418+ stars, MIT License, actively maintained)
 
 #### Remote Sensing & Geospatial AI
 - [TorchGeo](https://github.com/microsoft/torchgeo) - PyTorch domain library for geospatial deep learning providing standardized datasets, samplers, transforms, and pre-trained models for remote sensing, land cover mapping, and environmental monitoring (Microsoft, 4K+ stars)
