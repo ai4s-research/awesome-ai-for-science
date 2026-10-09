@@ -770,6 +770,7 @@
 - [AstroPy](https://github.com/astropy/astropy) - Python astronomy tools
 - [Gaia Archive](https://gea.esac.esa.int/archive/) - Stellar data for ML
 - [DeepSphere](https://github.com/deepsphere/deepsphere-pytorch) - Spherical CNNs for astronomy
+- [AstroGenesis (arXiv 2026)](https://astrogenai.com) - Domain-specific multi-agent AI platform for astrophysical research, combining literature retrieval, multi-wavelength data access via the Markarian Multiwavelength Data Center (MMDC), and physics-based SED modeling of blazars ([paper](https://arxiv.org/abs/2609.28579), ICRANet, 2026)
 
 ### 🌍 Earth & Climate Science
 
