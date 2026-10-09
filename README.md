@@ -766,6 +766,7 @@
 #### Astronomy & Astrophysics
 - [AstroCLIP](https://github.com/PolymathicAI/AstroCLIP) - Cross-modal self-supervised foundation model for galaxies by Polymathic AI, jointly embedding multi-band galaxy imaging and optical spectra into a shared latent space to enable zero/few-shot redshift estimation, galaxy property prediction, morphology classification, and cross-modal similarity search (MNRAS Letters 2024)
 - [AION (arXiv 2025)](https://github.com/PolymathicAI/AION) - Polymathic AI's large omnimodal foundation model for astronomical surveys, seamlessly integrating 39 distinct data modalities including imaging, spectra, photometry, and catalog entries for similarity search, property prediction, and generative modeling across legacy surveys (MIT)
+- [ML4GW (A3D3 Institute, JOSS 2025)](https://github.com/ML4GW/ml4gw) - PyTorch library for training neural networks on gravitational-wave physics, providing differentiable PSD estimation, whitening, SNR calculation, interferometer response projection, waveform simulation, and streaming data loaders; the shared back end of the NSF A3D3/ML4GW pipelines deployed for real-time detection of compact-binary coalescences in LIGO–Virgo–KAGRA observing runs (35+ stars, GPL-3.0, 2022-2026)
 - [AstroPy](https://github.com/astropy/astropy) - Python astronomy tools
 - [Gaia Archive](https://gea.esac.esa.int/archive/) - Stellar data for ML
 - [DeepSphere](https://github.com/deepsphere/deepsphere-pytorch) - Spherical CNNs for astronomy
