@@ -180,6 +180,7 @@
 - [scispacy (AllenAI)](https://github.com/allenai/scispacy) - Full spaCy pipeline and models for scientific/biomedical documents, enabling named entity recognition, abbreviation resolution, and UMLS linking for scientific literature mining (1.9K+ stars, Apache 2.0)
 
 ### Scientific Literature RAG & Analysis
+- [PaperFold](https://github.com/chenxiachan/paperfold) - ArXiv reader with semantic zoom, verbatim excerpts, AI summaries, and paragraph-linked answers
 - [PaperQA2](https://github.com/future-house/paper-qa) - High-accuracy RAG for scientific PDFs with citation support, agentic RAG, and contradiction detection
 - [OpenScholar](https://github.com/AkariAsai/OpenScholar) - Retrieval-augmented LM synthesizing scientific literature from 45M papers with human-expert-level citation accuracy, outperforming GPT-4o by 5% on ScholarQABench (Nature 2026, UW & Ai2)
 - [Valsci](https://github.com/bricee98/Valsci) - Self-hostable scientific claim-verification and literature-review tool combining Semantic Scholar retrieval, bibliometric scoring, and LLM-based evidence synthesis for large-batch validation workflows
