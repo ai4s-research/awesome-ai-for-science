@@ -72,10 +72,11 @@
 - [paper-search-mcp](https://github.com/openags/paper-search-mcp) - MCP server, CLI, and agent skills for searching and downloading academic papers from multiple open sources (arXiv, PubMed, bioRxiv, Semantic Scholar, OpenAlex, CORE, Europe PMC, etc.) with unified, deduplicated, LLM-friendly retrieval and an OA-first download fallback chain (OpenAGS, 1.9K+ stars, MIT License, 2025)
 
 ### Data Analysis & Visualization
-- [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
-- [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - First agentic LLM for autonomous data science with end-to-end pipeline from data to analyst-grade reports
 - [AutoViz](https://github.com/AutoViML/AutoViz) - Automated data visualization with minimal code
 - [Chat2Plot](https://github.com/nyanp/chat2plot) - Secure text-to-visualization through standardized chart specifications
+- [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - First agentic LLM for autonomous data science with end-to-end pipeline from data to analyst-grade reports
+- [Invokely](https://invokely.ai) - Source-cited official statistics for empirical AI research via MCP (500 free calls/month); REST access requires paid access.
+- [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
 
 ### Data Labeling & Annotation
 - [Label Studio](https://github.com/heartexlabs/label-studio) - Multi-type data labeling and annotation tool
