@@ -105,6 +105,7 @@
 - [pdf2slides](https://github.com/ha0ranyu/pdf2slides) - Convert PDF files into editable slides with three lines of code
 - [SlideDeck AI](https://github.com/barun-saha/slide-deck-ai) - Co-create PowerPoint presentations with Generative AI from documents or topics
 - [AI Multi-Agent Presentation Builder](https://github.com/Azure-Samples/ai-multi-agent-presentation-builder) - Azure Semantic Kernel multi-agent PPT generation reference
+- [Yila AI](https://yila.ai) - Research agent workspace that turns a paper or uploaded PDF into editable academic slides and posters, alongside literature review and data analysis with source-linked claims
 
 ### Video & Media Generation
 - [Paper2Video](https://github.com/showlab/Paper2Video) - First benchmark for automatic video generation from scientific papers (NeurIPS 2025)
