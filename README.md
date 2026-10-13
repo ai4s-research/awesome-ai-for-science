@@ -383,6 +383,7 @@
 ### Neural Operators & Model Discovery
 - [DeepONet](https://github.com/lululxvi/deeponet) - Learning nonlinear operators
 - [PySINDy](https://github.com/dynamicslab/pysindy) - Sparse identification of nonlinear dynamics
+- [PyDMD (JOSS 2021)](https://github.com/PyDMD/PyDMD) - Python package for Dynamic Mode Decomposition (DMD) and its variants (exact, incremental, multiresolution MR-DMD, higher-order HODMD, parametric, BOP-DMD, DMD-control, and DL-DMD neural-network extensions), enabling data-driven reduced-order modeling, Koopman operator analysis, and flow-field feature extraction for high-dimensional dynamical systems in fluid dynamics and scientific computing (1.2K+ stars, MIT License, actively maintained)
 - [PySR](https://github.com/MilesCranmer/PySR) - High-performance symbolic regression for discovering interpretable scientific equations from data, multi-population evolutionary search with Python/Julia backend, widely used in physics and astronomy (Cambridge, NeurIPS 2023)
 - [LLM-SR](https://github.com/deep-symbolic-mathematics/LLM-SR) - Scientific equation discovery and symbolic regression using LLMs, combining code generation with evolutionary search (ICLR 2025 Oral)
 - [PSRN](https://github.com/x66ccff/PSRN) - Parallel symbolic regression network evaluating millions of expressions on GPU with automated subtree reuse, Nature Computational Science cover article (MIT, 2026)
