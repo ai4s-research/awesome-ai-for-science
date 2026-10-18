@@ -1004,6 +1004,7 @@
 - [Physics-Informed Neural Networks Papers](https://github.com/idrl-lab/PINNpapers) - PINN research collection
 - [Scientific Computing with ML Papers](https://sciml.ai/papers/) - Scientific ML paper repository
 - [Simulation-Based Inference Papers & Tools](https://simulation-based-inference.org/papers/) - Community-maintained SBI research portal with papers and software
+- [Awesome AI Research Tools](https://github.com/mahmoudsajjadi/awesome-ai-research-tools) - Curated catalog of AI tools for scientific literature discovery, citation graphs, LaTeX writing, and research reproducibility
 - [Awesome AI Scientist Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) - Autonomous AI scientist research
 - [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) - LLM agents across scientific domains
 
@@ -1042,6 +1043,7 @@ This project builds upon and complements several excellent resources:
 
 ### 🎯 Specialized Collections
 - [awesome-ai4s](https://github.com/hyperai/awesome-ai4s) - 200+ AI for Science papers with Chinese interpretations
+- [Awesome AI Research Tools](https://github.com/mahmoudsajjadi/awesome-ai-research-tools) - Curated catalog of AI tools for scientific literature discovery, citation graphs, LaTeX writing, and research reproducibility
 - [Awesome AI Scientist Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) - Autonomous AI scientist research
 - [Awesome Scientific Machine Learning](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning) - Physics-informed ML and SciML
 - [Awesome Scientific Skills](https://github.com/InternScience/Awesome-Scientific-Skills) - Curated collection of agent skills for scientific research (InternScience, 493+ stars, 2026)
