@@ -862,6 +862,7 @@
 
 ### Mechanical, Aerospace & Industrial Engineering
 - [Noether (Emmi AI)](https://github.com/Emmi-AI/noether) - Open software framework for Engineering AI built on transformer building blocks, enabling teams to build, train, and operate industrial simulation models across engineering verticals; includes ready-to-use recipes for CFD (AB-UPT on DrivAerML), external aerodynamics, and heat transfer (234+ stars, ENPL non-commercial license, 2026)
+- [nopekit](https://github.com/neuman/nopekit) - Claude Code plugin that grounds AI-assisted physical design by falsification: each claim about a part becomes a gate (beam analysis, CAD mesh checks, FDM printability, thermal/flat-plate solar, buoyancy, OpenModelica, BOM sourcing) that must ship a negative control proving it can fail, rolled up into a readiness report (12+ stars, Apache-2.0, 2026)
 
 ### Structural & Civil Engineering
 - [StructureClaw](https://github.com/structureclaw/structureclaw) - AI-assisted structural engineering workspace for AEC workflows: natural language to structural model, analysis, code-check, and report (171+ stars, MIT License, 2026)
