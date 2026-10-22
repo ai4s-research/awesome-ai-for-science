@@ -107,6 +107,7 @@
 - [AI Multi-Agent Presentation Builder](https://github.com/Azure-Samples/ai-multi-agent-presentation-builder) - Azure Semantic Kernel multi-agent PPT generation reference
 
 ### Video & Media Generation
+- [Molecular Animation](https://github.com/AmadeusBio-ai/Molecular_Animation) - Agent-driven Blender pipeline turning scientific briefs and PDB/AlphaFold structures into molecular animation films
 - [Paper2Video](https://github.com/showlab/Paper2Video) - First benchmark for automatic video generation from scientific papers (NeurIPS 2025)
 - [paper2video](https://github.com/mett29/paper2video) - Transform arXiv research papers into engaging presentations and YouTube-ready videos
 
