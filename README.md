@@ -230,6 +230,7 @@
 - [SciWrite](https://github.com/labarba/sciwrite) - Agent skill for AI-assisted scientific manuscript writing review distilled from Stanford's *Writing in the Sciences* course, performing five sequential editorial audit passes on clarity, voice, structure, consistency, and integrity (2026)
 - [PaperSpine](https://github.com/WUBING2023/PaperSpine) - Motivation-driven academic writing system for Claude Code, Codex, OpenClaw, and Hermes CLI that learns from strong papers, builds evidence-aware central-argument blueprints, and rewrites manuscripts with revision matrices and LaTeX-safe audits (4.9K+ stars, MIT License, 2026)
 - [Claude Prism](https://github.com/delibae/claude-prism) - Offline-first scientific writing workspace powered by Claude, integrating LaTeX, Python, and 100+ scientific skills with local execution, Zotero integration, and privacy-focused design (2026)
+- [ScholarCopilot (COLM 2025)](https://github.com/TIGER-AI-Lab/ScholarCopilot) - Open-weight (Qwen2.5-7B) academic-writing assistant that jointly trains retrieval and generation, learning to emit a `[RET]` token that fetches and inserts accurate citations from a 500K-paper corpus with one-click BibTeX; released with open data, model weights, and a live HuggingFace demo (TIGER-AI-Lab, 253+ stars, MIT License, 2025)
 
 ---
 
