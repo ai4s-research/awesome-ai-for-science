@@ -938,6 +938,7 @@
 
 ### Chemistry & Materials
 - [Materials Project](https://next-gen.materialsproject.org/) - Computational materials database
+- [MoleculeFinder Everyday Molecules](https://doi.org/10.5281/zenodo.23605767) - CC0 tables of 915 everyday molecules (PubChem computed properties, Wikidata names, US-government-sourced LD50s) matched by ingredient codes to 405 consumer products whose labels list them; versioned via a Zenodo concept DOI and refreshed weekly by a public ETL pipeline (2026)
 - [QM9](https://quantum-machine.org/datasets/) - Small molecule properties
 - [Open Catalyst Project](https://opencatalystproject.org/) - Catalyst discovery
 
