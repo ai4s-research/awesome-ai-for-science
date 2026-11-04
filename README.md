@@ -756,6 +756,7 @@
 - [LLaMat (Nature Machine Intelligence 2026)](https://github.com/M3RG-IITD/llamat) - Family of large language models for materials research via continued pretraining of LLaMA-2/3 on ~30B materials science tokens, outperforming commercial LLMs on materials science tasks while identifying "adaptation rigidity" in overtrained models; includes MatNLP benchmark and CIF crystal generation capabilities (IIT Delhi M3RG, MIT License)
 - [Crystal Graph CNNs](https://github.com/txie-93/cgcnn) - Crystal property prediction
 - [MatBench](https://github.com/materialsproject/matbench) - Materials informatics benchmark
+- [matminer (Computational Materials Science 2018)](https://github.com/hackingmaterials/matminer) - Data mining toolkit for materials science providing 100+ featurizers that translate crystal structures, compositions, and band structures into ML-ready descriptors, plus programmatic retrieval from Materials Project, AFLOW, and Citrination datasets; powers the MatBench ecosystem and hundreds of materials-informatics studies (Berkeley Lab / LBNL, 624+ stars, BSD-style LBNL license, actively maintained)
 - [Best of Atomistic Machine Learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) - Curated list of atomistic ML projects for materials science
 
 #### Chemical Synthesis
