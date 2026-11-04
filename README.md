@@ -91,8 +91,6 @@
 
 ---
 
-- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce whose Commander coordinates research and other specialist agents through one chat
-
 ## 📄 Paper→Poster / Slides / Graphical Abstract
 
 ### Poster Generation
@@ -215,6 +213,7 @@
 - [Open Science (AIPOCH)](https://github.com/aipoch/open-science) - Open-source, local-first, model-agnostic AI research workbench for reproducible scientific discovery; runs Python/R notebooks, searches the web, calls scientific data connectors, and produces inspectable reports, tables, and figures in a self-hosted desktop workspace (1.5K+ stars, Apache 2.0, 2026)
 - [OmicsClaw](https://github.com/TianGzlab/OmicsClaw) - Local-first, conversational AI research partner for multi-omics analysis with CLI, desktop app, and 95+ reproducible skills; keeps raw data local while routing natural-language requests to Python/R/CLI tools with persistent memory, autonomous analysis paths, and multi-method consensus workflows (TianGzlab, 155+ stars, Apache 2.0, 2026)
 - [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) - Open-source AI research assistant for biomedicine — chat to run RNA-seq, drug discovery, clinical analysis, and more; built on OpenClaw and Claude Code with 140 K-Dense scientific skills, real-time dashboard, and RStudio/JupyterLab integration (xjtulyc, 669+ stars, 2026)
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source (MIT), local-first desktop AI workforce whose Commander turns goals into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, and other agent CLIs, with projects, scheduled automations, connectors, and free macOS/Windows apps (9K+ stars, 2026)
 
 ### Literature Management Plugins
 - [llm-for-zotero](https://github.com/yilewang/llm-for-zotero) - Research agent system deeply integrated with Zotero supporting Agent Mode, skills, multi-model backends (OpenAI-compatible, Claude Code, WebChat, Codex), and MinerU PDF parsing for literature Q&A, summarization, figure inspection, and source comparison (1.3K+ stars, 2026)
