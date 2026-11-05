@@ -971,6 +971,7 @@
 - [NumPy](https://numpy.org/) - Numerical computing
 - [SciPy](https://scipy.org/) - Scientific computing
 - [Scikit-learn](https://scikit-learn.org/) - Machine learning library
+- [Jacobian](https://github.com/morluto/jacobian) - Composable mathematics tools for AI agents: MCP server, CLI and Python library for exact computation and conjecture testing across polynomial maps, linear algebra and graph algorithms, giving LLM agents verifiable computer-algebra capabilities (354+ stars, MIT License, 2026)
 
 ### Scientific Machine Learning Frameworks
 - [SciML](https://sciml.ai/) - Scientific machine learning ecosystem
