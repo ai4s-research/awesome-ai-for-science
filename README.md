@@ -797,6 +797,7 @@
 - [AstroPy](https://github.com/astropy/astropy) - Python astronomy tools
 - [Gaia Archive](https://gea.esac.esa.int/archive/) - Stellar data for ML
 - [DeepSphere](https://github.com/deepsphere/deepsphere-pytorch) - Spherical CNNs for astronomy
+- [exoplanet](https://github.com/exoplanet-dev/exoplanet) - Fast and scalable MCMC toolkit for exoplanet characterization built on PyMC and Aesara/JAX, providing differentiable probabilistic models for transit light curves, radial velocities, and astrometry — enabling gradient-based inference (NUTS) and Hamiltonian Monte Carlo for robust parameter estimation, model comparison, and uncertainty quantification in time-domain astronomy (exoplanet-dev, JOSS 2021, 242+ stars, MIT License, actively maintained)
 
 ### 🌍 Earth & Climate Science
 
