@@ -327,6 +327,7 @@
 - [Terminal-Bench Science (Harbor Framework, 2026)](https://github.com/harbor-framework/terminal-bench-science) - Benchmark evaluating AI agents on complex real-world scientific workflows in terminal environments across life, physical, earth, and mathematical sciences; featured on model cards for Claude Opus 4.7, GPT-5.5, and Gemini 3.1 Pro (200+ stars, Apache 2.0)
 
 ### Academic Review & Evaluation
+- [Academic Commercialization Agent](https://github.com/shuxiachai/academic-commercialization-agent) - Multi-agent pipeline that turns research papers into cited technology-readiness, patent-landscape, market, and risk screening reports for tech transfer; CrewAI + FastAPI with a reproducible benchmark and self-hostable web app (shuxiachai, 809+ stars, MIT, 2026)
 - [AgentReview](https://agentreview.github.io/) - LLM agents simulating academic peer review ecosystems
 - [LLM-Peer-Review](https://github.com/VijayGKR/LLM-Peer-Review) - Web application for LLM-assisted manuscript review and annotation
 
