@@ -411,6 +411,7 @@
 
 ### Simulation-Based Inference
 - [sbi](https://github.com/sbi-dev/sbi) - Python package for simulation-based inference enabling likelihood-free Bayesian parameter estimation from scientific simulators, with flexible interfaces for neural posterior estimation, sequential methods, and MCMC/variational backends (Mackelab, 825+ stars)
+- [DeepInverse (JOSS 2024)](https://github.com/deepinv/deepinv) - PyTorch library and benchmark for solving imaging inverse problems (MRI, CT, deblurring, inpainting, phase retrieval) with deep learning, unifying plug-and-play, unrolled, diffusion, and equivariant priors with built-in physics operators, datasets, and metrics (deepinv.org, 846+ stars, BSD-3-Clause, actively maintained)
 
 ---
 
