@@ -147,6 +147,7 @@
 - [AutoP2C](https://arxiv.org/abs/2504.20115) - LLM agent framework generating runnable repositories from academic papers
 - [ResearchCodeAgent](https://arxiv.org/abs/2504.20117) - Multi-agent system for automated codification of research methodologies
 - [ToolMaker](https://huggingface.co/papers/2502.11705) - Convert papers with code into callable agent tools
+- [celsus](https://github.com/0ywfe/celsus) - LLM workflow for automated replication checking: reads an arXiv paper's LaTeX, extracts every reported number into a typed spec, rebuilds the analysis from public data in a sandboxed run, and issues a plain-language verdict (holds up / partly / does not / could not check); model-agnostic via any chat-completions endpoint, defaults to Meta Muse (~35 min, ~$1.30/run; 7+ stars, AGPL-3.0, 2026)
 
 ### Experiment Automation
 - [BioProBench](https://huggingface.co/datasets/GreatCaptainNemo/BioProBench) - Comprehensive benchmark for automatic evaluation of LLMs on biological protocols and procedural understanding
