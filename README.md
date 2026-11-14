@@ -945,6 +945,7 @@
 ## 📈 Datasets & Benchmarks
 
 ### Multidisciplinary
+- [AI Science Tracker](https://marcello-pichini.github.io/ai-science-tracker/) - Open catalog of sourced scientific discoveries enabled by AI, with dated records and editorial scores (CC BY 4.0, Zenodo DOI 10.5281/zenodo.24217686, 2026)
 - [Hugging Face Datasets](https://huggingface.co/datasets) - Comprehensive ML research datasets and scientific data collections
 - [Google Dataset Search](https://datasetsearch.research.google.com/) - Find scientific datasets
 
