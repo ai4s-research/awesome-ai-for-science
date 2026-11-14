@@ -895,6 +895,7 @@
 ### Mechanical, Aerospace & Industrial Engineering
 - [AgentFEM](https://github.com/haoming-luo/agentfem) - Open-source finite-element workflows connecting AI agents, simulation campaigns, and scientific learning datasets.
 - [Noether (Emmi AI)](https://github.com/Emmi-AI/noether) - Open software framework for Engineering AI built on transformer building blocks, enabling teams to build, train, and operate industrial simulation models across engineering verticals; includes ready-to-use recipes for CFD (AB-UPT on DrivAerML), external aerodynamics, and heat transfer (234+ stars, ENPL non-commercial license, 2026)
+- [Wobbl](https://github.com/sohan-bhat/wobbl) - Physics simulator and MCP server for AI agents: FEA, circuit, thermal, fluid and rocket simulations with open-source solvers.
 
 ### Structural & Civil Engineering
 - [StructureClaw](https://github.com/structureclaw/structureclaw) - AI-assisted structural engineering workspace for AEC workflows: natural language to structural model, analysis, code-check, and report (171+ stars, MIT License, 2026)
