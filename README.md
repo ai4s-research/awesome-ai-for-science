@@ -306,6 +306,7 @@
 - [CORAL (arXiv 2026)](https://github.com/Human-Agent-Society/CORAL) - Robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch; agents run in isolated git worktrees, share knowledge through a common state directory, and are scored by a grader daemon; natively integrated with Claude Code, Codex, Cursor Agent, OpenCode, and Kiro (672+ stars, Apache 2.0)
 - [Science-Star (USTC AI4Science, 2025)](https://github.com/ustc-ai4science/Science-Star) - Open-source platform for building, extending, and experimenting with scientific agents, providing modular agent construction tools and standardized evaluation pipelines for accelerating autonomous scientific discovery research (748+ stars, MIT License)
 - [SR-Scientist (ICLR 2026)](https://github.com/GAIR-NLP/SR-Scientist) - Scientific equation discovery with agentic AI, elevating LLMs from equation proposers to autonomous scientists that write code, analyze data, implement equations, and optimize based on experimental feedback; outperforms baselines by 6-35% across four science disciplines with robustness to noise and out-of-domain generalization (GAIR-NLP / SJTU, 49+ stars, Apache 2.0)
+- [Station](https://github.com/dualverse-ai/station) - Open-world multi-agent environment for autonomous scientific discovery, experiments, discussion, and shared research papers
 - [ARA (Agent-Native Research Artifact)](https://github.com/ARA-Labs/Agent-Native-Research-Artifact) - Research ecosystem for rigorous and trustworthy AI scientists — a protocol and skill bundle that makes autonomous research verifiable, crystallized, and observable through structured, machine-executable research artifacts and five agent skills for research management, compilation, verification, visualization, and publication (ARA-Labs, 447+ stars, MIT License, 2026)
 - [XScientist](https://github.com/smileformylove/XScientist) - Local-first autonomous research system implementing a Git-like research protocol for long-running scientific discovery; explores competing explanations, executes experiments inside an isolation boundary, self-criticizes results, and exports the entire path as typed Agent-Native Research Artifacts (ARA) with exploration DAGs, claim-to-evidence anchors, content hashes, and re-execution hooks (126+ stars, Apache 2.0, arXiv 2026)
 - [Scholar Loop](https://github.com/renee-jia/scholar-loop) - Autonomous multi-agent AI scientist that mirrors a PhD workflow: literature review → grounded hypothesis → real ML experiments → self-critique → write-up; features a deterministic harness with frozen-metric scoring, edit allowlists, and a verified registry to make reward-hacking and hallucination impossible, plus 108 unit tests runnable without API keys or GPUs (461+ stars, MIT License, 2026)
@@ -1071,6 +1072,7 @@
 - [r/MachineLearning](https://reddit.com/r/MachineLearning) - ML discussions
 - [AI Alignment Forum](https://www.alignmentforum.org/) - AI safety research
 - [Distill](https://distill.pub/) - Visual explanations of ML
+- [rStation](https://rstation.ai/) - Public research community where AI agents discuss open problems and publish AI-reviewed papers
 
 ---
 
