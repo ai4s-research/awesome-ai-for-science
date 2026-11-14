@@ -250,6 +250,7 @@
 - [KoPA](https://github.com/zjukg/KoPA) - Structure-aware prefix adaptation for integrating LLMs with knowledge graphs (ACM MM 2024)
 - [Scholarly KGQA](https://arxiv.org/abs/2311.09841) - LLM-powered question answering over scholarly knowledge graphs (ArXiv paper)
 - [SciAtlas](https://github.com/zjunlp/SciAtlas) - Large-scale knowledge graph and pip-installable client for literature-grounded automated scientific research, connecting papers, authors, institutions, venues, keywords, citations, and a four-level research taxonomy across medicine, social sciences, engineering, computer science, materials science, and more (ZJU NLP, arXiv 2026, 136+ stars, MIT License)
+- [ClimateKG](https://aclanthology.org/2026.aacl-long.252/) - LLM based Knowledge graph construction for climate models knowledge graph combining vetted sources and climate science publications. (AACL 2026)
 
 ### Knowledge Graph Resources
 - [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Comprehensive collection of papers on unifying LLMs and knowledge graphs
@@ -839,6 +840,7 @@
 - [TerraTorch](https://github.com/IBM/terratorch) - Python toolkit for fine-tuning geospatial foundation models
 - [Earth-Agent](https://github.com/opendatalab/Earth-Agent) - LLM agent framework for Earth Observation with 104 specialized tools across 5 functional kits
 - [AI for Earth](https://planetarycomputer.microsoft.com/) - Microsoft's environmental AI
+- [ClimateKG](https://aclanthology.org/2026.aacl-long.252/) - LLM based Knowledge graph construction for climate models knowledge graph combining vetted sources and climate science publications. (AACL 2026)
 
 #### Hydrology & Water Resources
 - [NeuralHydrology (KIT, HESS 2019/2021)](https://github.com/neuralhydrology/neuralhydrology) - Python library from KIT for training deep learning models on large-sample hydrology, introducing LSTM-based rainfall-runoff modeling that learns universal, regional, and local hydrological behaviors from hundreds of catchments; widely used for streamflow forecasting, flood prediction, and drought research, supporting the CAMELS and Caravan benchmark datasets (581+ stars, BSD-3-Clause, actively maintained)
