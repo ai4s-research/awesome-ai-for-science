@@ -1034,7 +1034,9 @@
 
 ### Open Access Educational Materials
 - [SciML Book](https://github.com/SciML/SciMLBook) - Parallel Computing and Scientific Machine Learning: MIT 18.337J/6.338J course materials (1.9k+ stars)
+- [Biosecurity Handbook](https://biosecurityhandbook.com/) - Free, open textbook on biological security in the AI era, from biosafety basics to AI-enabled biological risk (CC BY 4.0)
 - [Dive into Deep Learning](https://d2l.ai/) - Interactive deep learning book with code implementations
+- [Life Sciences AI Handbook](https://lifesciencesaihandbook.com/) - Free, open textbook on the peer-reviewed evidence for AI in biology and drug discovery, from protein models to self-driving labs (CC BY 4.0)
 - [The Elements of Statistical Learning](https://hastie.su.stanford.edu/ElemStatLearn/) - Classic ML textbook freely available
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Free online book by Michael Nielsen
 
