@@ -232,6 +232,7 @@
 - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced citation key management and LaTeX integration
 
 ### Scientific Writing & Collaboration
+- [HumanPen](https://humanpen.net/) - Credit-based document translation, condensation, citation-format correction, and AI-text rewriting
 - [Notion AI](https://www.notion.so/product/ai) - AI-powered research note-taking and knowledge management
 - [Obsidian Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) - AI-powered note linking and research graph navigation
 - [Research Rabbit](https://www.researchrabbit.ai/) - AI-powered literature discovery and research network mapping
