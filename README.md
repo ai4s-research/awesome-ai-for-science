@@ -897,6 +897,7 @@
 
 ### Mechanical, Aerospace & Industrial Engineering
 - [AgentFEM](https://github.com/haoming-luo/agentfem) - Open-source finite-element workflows connecting AI agents, simulation campaigns, and scientific learning datasets.
+- [Alloy](https://github.com/argonrobotics-ai/alloy) - Open-source Python physics engine for robot learning simulating robots, cloth, soft bodies, sand, and liquids across parallel GPU worlds.
 - [Noether (Emmi AI)](https://github.com/Emmi-AI/noether) - Open software framework for Engineering AI built on transformer building blocks, enabling teams to build, train, and operate industrial simulation models across engineering verticals; includes ready-to-use recipes for CFD (AB-UPT on DrivAerML), external aerodynamics, and heat transfer (234+ stars, ENPL non-commercial license, 2026)
 
 ### Structural & Civil Engineering
