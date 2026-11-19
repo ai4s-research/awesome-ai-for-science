@@ -74,6 +74,7 @@
 - [SixSentences](https://github.com/SixSentences/sixsentences) - Self-hostable research workspace keeping literature search, deduplication, screening, data analysis and manuscript writing in one project with inspectable provenance; boolean queries compile to SQL and run offline against versioned local Parquet snapshots of the corpus, so a search re-runs to the same record set (Apache-2.0, 2026)
 - [Lacuna Research MCP](https://github.com/tiptreesystems/lacuna-research-mcp) - Read-only MCP server for Lacuna, a free knowledge graph of ~2.3M ML and AI papers linked to their authors, research directions and 25k+ generated research hypotheses; the hosted endpoint needs no account or API key (Tiptree Systems, MIT License, 2026)
 - [SummarizePaper](https://github.com/summarizepaper/summarizepaper) - Open-source site summarizing arXiv, bioRxiv and medRxiv papers, with paper Q&A, daily field alerts and reference checking (317+ stars, MIT License, 2023)
+- [Glasp](https://glasp.co/) - Web and PDF highlighter for papers and articles, with AI summaries, Zotero export and an MCP connector for AI assistants
 
 ### Data Analysis & Visualization
 - [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
