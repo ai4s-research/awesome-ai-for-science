@@ -185,6 +185,7 @@
 
 ### Scientific Text Processing & NLP
 - [scispacy (AllenAI)](https://github.com/allenai/scispacy) - Full spaCy pipeline and models for scientific/biomedical documents, enabling named entity recognition, abbreviation resolution, and UMLS linking for scientific literature mining (1.9K+ stars, Apache 2.0)
+- [citeparse](https://github.com/un-seen/citeparse) - Token-classification models (32M/150M parameters) that parse reference strings into CSL-JSON or BibTeX on a CPU, plus a checker that flags wrong DOIs and invented references via Crossref and OpenAlex (Apache 2.0, 2026)
 
 ### Scientific Literature RAG & Analysis
 - [PaperFold](https://github.com/chenxiachan/paperfold) - ArXiv reader with five-level semantic zoom from overview down to verbatim excerpts, AI summaries, and paragraph-linked answers, folding papers, web pages, files, and AI replies into structured levels of detail (781+ stars, Apache 2.0, 2026)
