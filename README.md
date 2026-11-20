@@ -776,6 +776,7 @@
 #### Chemical Synthesis
 - [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - AstraZeneca's industrial-grade retrosynthetic planning tool using MCTS to recursively decompose molecules into purchasable precursors, with multi-step route scoring and support for custom one-step models (v4.0, 2024)
 - [Molecular Transformers](https://github.com/pschwllr/MolecularTransformer) - AI for chemical reaction prediction and synthesis planning
+- [Syntheseus (Microsoft Research, Faraday Discussions 2024)](https://github.com/microsoft/syntheseus) - Open-source framework for end-to-end retrosynthetic planning that combines multi-step search algorithms (MCTS, retro*, and retro-fallback) with wrappers for state-of-the-art single-step reaction models behind a standardized API, enabling benchmarking and rapid prototyping of synthesis-planning pipelines; used by RetroGFN, TANGO, and SimpRetro (arXiv 2310.19796, 217+ stars, MIT License, actively maintained)
 - [SyntheMol (Stanford, Nature Machine Intelligence 2024)](https://github.com/swansonk14/SyntheMol) - Generative AI system for antibiotic discovery that searches billions of synthesizable molecules by combining molecular building blocks through real chemical reactions, experimentally validating novel compounds active against drug-resistant bacteria
 
 #### Lab Automation & Robotics
