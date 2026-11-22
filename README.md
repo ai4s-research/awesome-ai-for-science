@@ -316,6 +316,7 @@
 - [Imbue Catalyst](https://github.com/imbue-ai/catalyst) - Semi-autonomous AI scientist for scientific theory discovery and verifiable goal solving, using adversarial review-refinement loops and evolution-inspired candidate populations; integrates with Claude Code, Gemini CLI, Antigravity, and Codex harnesses (Imbue, 31+ stars, AGPL-3.0, 2026)
 
 ### Evaluation & Benchmarking
+- [Accelerate Bench (arXiv 2026)](https://github.com/AdAstraAbyssoque/accelerate-bench) - A long-horizon coding agent benchmark for speeding up scientific computing applications
 - [ScienceAgentBench (ICLR 2025)](https://github.com/OSU-NLP-Group/ScienceAgentBench) - 102 executable tasks from 44 peer-reviewed papers across 4 disciplines with containerized evaluation
 - [AIRS-Bench (Meta, 2026)](https://github.com/facebookresearch/airs-bench) - Benchmark quantifying end-to-end autonomous AI research abilities of LLM agents across 20 tasks from SOTA machine learning papers spanning NLP, code, math, biochemical modelling, and time series forecasting, with normalized score metrics against human SOTA and HuggingFace dataset
 - [PaperBench (OpenAI, 2025)](https://github.com/openai/preparedness/tree/main/project/paperbench) - Benchmark evaluating AI agents' ability to replicate 20 ICML 2024 Spotlight/Oral papers from scratch, with 8,316 gradable tasks and author-co-developed rubrics
