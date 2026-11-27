@@ -86,6 +86,7 @@
 - [Snorkel](https://github.com/snorkel-team/snorkel) - Programmatic data labeling and weak supervision
 
 ### Research Workbench & Plugins
+- [StyleFuse](https://stylefuse.top/) - 6-agent closed-loop academic writing & style-fusion workbench aligning Word (.docx) drafts to target journal styles (Nature/IEEE/JACS) with deterministic cliché/language auditing, red/green Canvas diffs, and format-preserving DOCX export
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Comprehensive collection of 125+ ready-to-use scientific skill modules for Claude AI across bioinformatics, cheminformatics, clinical research, ML, and materials science
 - [GDM Science Skills](https://github.com/google-deepmind/science-skills) - Google DeepMind's official collection of agentic science skills accelerating scientific workflows with better grounding and higher token efficiency, integrating insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools (2026)
 - [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science with 140+ ready-to-use skills and 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard (K-Dense-AI, 26K+ stars, 2025)
