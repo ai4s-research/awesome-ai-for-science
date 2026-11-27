@@ -199,6 +199,7 @@
 ## 🧰 Research Workbench & Plugins
 
 ### Interactive Research Environments
+- [AshuTeacher](https://github.com/sanzaya-p/ashuteacher) - Open-source interactive AI Voice Blackboard and 6-milestone Project, Thesis & Research Studio with KaTeX math, live SVG visuals, and Live AI Viva Defense across 195-country curricula (2026)
 - [BrainPilot](https://github.com/NeuroAIHub/BrainPilot) - Open-source multi-agent research platform for brain science where a coordinating PI agent directs specialist agents across literature research, study design, coding, data analysis, writing, and audit, with configurable model providers, extensible skills and tools, human oversight, and an inspectable Graph of Trace; self-hostable with optional hosted cloud (NeuroAIHub, 1.1K+ stars, AGPL-3.0, 2026)
 - [Jupyter AI (JupyterLab Extension)](https://github.com/jupyterlab/jupyter-ai) - Official Jupyter extension with `%%ai` magic commands and sidebar chat assistant, connecting multiple model providers and local inference
 - [Notebook Intelligence (NBI)](https://github.com/notebook-intelligence/notebook-intelligence) - AI coding assistant for JupyterLab with agent mode, supporting arbitrary LLM providers (2025+)
