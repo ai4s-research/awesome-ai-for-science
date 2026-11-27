@@ -154,6 +154,7 @@
 ### Experiment Automation
 - [BioProBench](https://huggingface.co/datasets/GreatCaptainNemo/BioProBench) - Comprehensive benchmark for automatic evaluation of LLMs on biological protocols and procedural understanding
 - [Alhazen](https://chanzuckerberg.github.io/alhazen/) - Extract experimental metadata and protocol information from scientific documents
+- [Abaqus Agent](https://github.com/Tomsabay/abaqus_agent) - Local simulation QA, physics-contract regression, and AI-driven automation workbench for Abaqus FEA that turns engineering specs into reproducible solved models with deterministic verification gates (29+ stars, AGPL-3.0)
 
 ---
 
