@@ -74,7 +74,7 @@
 - [SixSentences](https://github.com/SixSentences/sixsentences) - Self-hostable research workspace keeping literature search, deduplication, screening, data analysis and manuscript writing in one project with inspectable provenance; boolean queries compile to SQL and run offline against versioned local Parquet snapshots of the corpus, so a search re-runs to the same record set (Apache-2.0, 2026)
 - [Lacuna Research MCP](https://github.com/tiptreesystems/lacuna-research-mcp) - Read-only MCP server for Lacuna, a free knowledge graph of ~2.3M ML and AI papers linked to their authors, research directions and 25k+ generated research hypotheses; the hosted endpoint needs no account or API key (Tiptree Systems, MIT License, 2026)
 - [SummarizePaper](https://github.com/summarizepaper/summarizepaper) - Open-source site summarizing arXiv, bioRxiv and medRxiv papers, with paper Q&A, daily field alerts and reference checking (317+ stars, MIT License, 2023)
-- [Paper Radar](https://github.com/Eliot5566/JEV-Paper-Radar) - Scores every new arXiv, bioRxiv/medRxiv and PubMed paper against plain-English research interests and publishes a daily page and RSS feed; includes a Claude skill and a systematic-review screening mode benchmarked on CLEF TAR 2019 (MIT License)
+- [Paper Radar](https://github.com/Eliot5566/JEV-Paper-Radar) - Scores every new arXiv, bioRxiv/medRxiv and PubMed paper against plain-English research interests and publishes a daily ranked reading list with HTML/CSV/JSON export and RSS feed; includes a Claude skill and a systematic-review screening mode benchmarked on 12 Cochrane reviews from CLEF TAR 2019 (47+ stars, MIT License, 2026)
 
 ### Data Analysis & Visualization
 - [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
@@ -155,7 +155,7 @@
 ### Experiment Automation
 - [BioProBench](https://huggingface.co/datasets/GreatCaptainNemo/BioProBench) - Comprehensive benchmark for automatic evaluation of LLMs on biological protocols and procedural understanding
 - [Alhazen](https://chanzuckerberg.github.io/alhazen/) - Extract experimental metadata and protocol information from scientific documents
-- [Abaqus Agent](https://github.com/Tomsabay/abaqus_agent) - Local simulation QA, physics-contract regression, and AI-driven automation workbench for Abaqus FEA that turns engineering specs into reproducible solved models with deterministic verification gates (29+ stars, AGPL-3.0)
+- [Abaqus Agent](https://github.com/Tomsabay/abaqus_agent) - Local simulation QA, physics-contract regression, and AI-driven automation workbench for Abaqus FEA that turns engineering specs into reproducible solved models with deterministic verification gates that refuse doubtful answers instead of returning them (29+ stars, AGPL-3.0, 2026)
 
 ---
 
